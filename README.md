@@ -8,7 +8,7 @@ Organized by **IT Academy of Barcelona Activa**, the initiative ran from **March
 
 Our team worked in weekly Agile sprints, analyzing an evolving database of property listings to address business challenges, define KPIs, and deliver actionable insights.
 > Example of our weekly task coordination using a shared Kanban board:
-![Kanban Board](Results/kanban-board.png)
+![Kanban Board](https://github.com/luybashu/tourism-accomodations-project/blob/main/Results/kanban-screenshort.png)
 
 ## Objectives
 
