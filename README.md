@@ -7,6 +7,8 @@ This project involved cross-functional data analysis to support operational, mar
 Organized by **IT Academy of Barcelona Activa**, the initiative ran from **March 17 to May 5, 2025**, simulating a real-world professional environment.
 
 Our team worked in weekly Agile sprints, analyzing an evolving database of property listings to address business challenges, define KPIs, and deliver actionable insights.
+> Example of our weekly task coordination using a shared Kanban board:
+![Kanban Board](images/kanban-board.png)
 
 ## Objectives
 
@@ -38,6 +40,16 @@ Our team worked in weekly Agile sprints, analyzing an evolving database of prope
 | Veronica | Team Lead                      | Coordination, quality assurance, sprint facilitation, QA |
 
 Each team member’s contributions can be found in the `Scripts/` folder, with files named by week and area of analysis (e.g., 20250407_marketing.ipynb)
+
+---
+
+## Workflow & Collaboration
+
+We followed an Agile methodology using Kanban boards to plan, assign, and track tasks each week.
+
+![Kanban Board](Results⁩/kanban-screenshot.png)
+
+The board helped us coordinate sprints, organize weekly business questions, and ensure smooth collaboration across departments.
 
 ---
 
